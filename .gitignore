@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+CamVid/
+*.h5
+*.keras
